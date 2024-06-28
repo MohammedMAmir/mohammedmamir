@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmamir&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedmamir" /> </p>
 
-- 👨‍💻 All of my projects are available at [mohammedmamir.github.io](mohammedmamir.github.io)
+- 👨‍💻 All of my projects are available at [mohammedmamir.github.io](https://mohammedmamir.github.io)
 
 - 📫 How to reach me **mohammedmamir@hotmail.com**
 
