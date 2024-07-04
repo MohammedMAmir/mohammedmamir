@@ -34,7 +34,7 @@
 
 <h3 align="left">Backend Development</h3>
 <p>
-   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-sreax&psig=AOvVaw3cov58X_C3qnDmr6qZCFJy&ust=1720200344412000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCMicsPDzjYcDFQAAAAAdAAAAABAE" alt="express" width="40" height="40"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
