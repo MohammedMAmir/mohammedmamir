@@ -1,5 +1,5 @@
 <head>
-       <meta name="google-site-verification" content="jpVH3uLJOk9-wpKP2cVC1wm8g1JAgZ317JoS3_Uu2vw" /> 
+       <meta name="google-site-verification" content="jpVH3uLJOk9-wpKP2cVC1wm8g1JAgZ317JoS3_Uu2vw" />
         <!-- Open Graph-->
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Mohammed Amir | Software Engineer" />
