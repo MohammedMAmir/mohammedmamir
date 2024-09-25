@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Amir</h1>
 
-<h2 align="center">Welcome to my Github. I'm a Computer Engineering Graduate from the University of Toronto with specialization in full-stack development, software engineering, and artificial intelligence.</h3>
+<h2 align="left">Welcome to my Github. I'm a Computer Engineering Graduate from the University of Toronto with specialization in full-stack development, software engineering, and artificial intelligence.</h3>
 
 <h2 align="left">As a software engineer and lifelong learner, I see technology as my canvas for innovation. I transform intricate systems into intuitive masterpieces, crafting solutions that blend clarity with user-centric design. Eager to shape the future, I strive to be at the cutting edge of tech breakthroughs, painting each project with a vision of seamless functionality and engaging user experiences.</h3>
 
