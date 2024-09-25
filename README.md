@@ -12,6 +12,7 @@ Project Manager, UX/UI Designer, Computer Engineer, Portfolio, Web Development" 
 <meta propter="og:robots" content="Hi, my name is Mohammed Amir. I'm a software engineer, full-stack 
 developer, problem solver, and project management expert based in Toronto, Ontario, Canada. Have 
 a look at my portfolio, the recent projects I've worked on, and feel free to get in touch." />
+<meta name="google-site-verification" content="jpVH3uLJOk9-wpKP2cVC1wm8g1JAgZ317JoS3_Uu2vw" />
         
 <h1 align="center">Hi 👋, I'm Mohammed Amir</h1>
 
