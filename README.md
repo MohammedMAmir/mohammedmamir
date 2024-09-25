@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohammed Amir</h1>
-<h3 align="center">Welcome to my Github. I'm a Computer Engineering Graduate from the University of Toronto with specialization in full-stack development and artificial intelligence.</h3>
 
+<h3 align="center">Welcome to my Github. I'm a Computer Engineering Graduate from the University of Toronto with specialization in full-stack development, software engineering, and artificial intelligence.</h3>
+
+<h3 align="center">As a software engineer and lifelong learner, I see technology as my canvas for innovation. I transform intricate systems into intuitive masterpieces, crafting solutions that blend clarity with user-centric design. Eager to shape the future, I strive to be at the cutting edge of tech breakthroughs, painting each project with a vision of seamless functionality and engaging user experiences.</h3>
+
+<h3 align="center">I thrive on tackling intricate, real-world challenges and am dedicated to honing my skills in the dynamic field of software engineering. With a strong foundation in project management and a collaborative mindset, I excel in working seamlessly within team environments to deliver innovative and effective solutions. As a graduate from the University of Toronto with 2+ years in database management, automation, and programming, I have skills in artificial intelligence, software engineering, project management, and user experience design. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmamir&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedmamir" /> </p>
 
 - 👨‍💻 All of my projects are available at [mohammedmamir.github.io](https://mohammedmamir.github.io)
