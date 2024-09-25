@@ -1,3 +1,18 @@
+<!-- Open Graph-->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Mohammed Amir | Software Engineer" />
+<meta property="og:description" content="Explore my portfolio showcasing my skills in software development." />
+<meta property="og:url" content="https://mohammedmamir.github.io/" />
+<meta property="og:site_name" content="Mohammed Amir | Software Engineer" />
+<meta property="article:publisher" content="https://mohammedmamir.github.io/" />
+<meta property="og:image" content="https://mohammedmamir.github.io/static/images/snapshot.png" />
+<meta property="og:keywords" content="HTML, CSS, Javascript, C++, Python, Backend, Frontend, Node, React, 
+PostgreSQL, Kotlin, Bootstrap, Git, GitHub, Software Engineer, Full-Stack Developer, Problem Solver, 
+Project Manager, UX/UI Designer, Computer Engineer, Portfolio, Web Development" />
+<meta propter="og:robots" content="Hi, my name is Mohammed Amir. I'm a software engineer, full-stack 
+developer, problem solver, and project management expert based in Toronto, Ontario, Canada. Have 
+a look at my portfolio, the recent projects I've worked on, and feel free to get in touch." />
+        
 <h1 align="center">Hi 👋, I'm Mohammed Amir</h1>
 
 <h2 align="left">Welcome to my Github. I'm a Computer Engineering Graduate from the University of Toronto with specialization in full-stack development, software engineering, and artificial intelligence.</h3>
