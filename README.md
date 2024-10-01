@@ -4,10 +4,10 @@
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Mohammed Amir | Software Engineer" />
         <meta property="og:description" content="Explore my portfolio showcasing my skills in software development." />
-        <meta property="og:url" content="https://mohammedmamir.github.io/" />
+        <meta property="og:url" content="https://www.mohammedmamir.com/" />
         <meta property="og:site_name" content="Mohammed Amir | Software Engineer" />
-        <meta property="article:publisher" content="https://mohammedmamir.github.io/" />
-        <meta property="og:image" content="https://mohammedmamir.github.io/static/images/snapshot.png" />
+        <meta property="article:publisher" content="https://www.mohammedmamir.com/" />
+        <meta property="og:image" content="https://www.mohammedmamir.com/static/images/snapshot.png" />
         <meta property="og:keywords" content="HTML, CSS, Javascript, C++, Python, Backend, Frontend, Node, React, 
         PostgreSQL, Kotlin, Bootstrap, Git, GitHub, Software Engineer, Full-Stack Developer, Problem Solver, 
         Project Manager, UX/UI Designer, Computer Engineer, Portfolio, Web Development" />
@@ -28,7 +28,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmamir&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedmamir" /> </p>
 
-- 👨‍💻 All of my projects are available at [mohammedmamir.github.io](https://mohammedmamir.github.io)
+- 👨‍💻 All of my projects are available at [mohammedmamir.github.io](https://www.mohammedmamir.com)
 
 - 📫 How to reach me **mohammedmamir@hotmail.com**
 
